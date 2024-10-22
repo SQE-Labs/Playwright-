@@ -28,7 +28,7 @@ npx playwright show-report
 
 npx playwright test --ui
 
-# Commands 
+## Commands 
 npx playwright test grouping.spec.ts --project=chromium --headed
 
 
