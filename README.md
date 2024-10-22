@@ -19,12 +19,16 @@ npm install playwright@latest
 
 npx playwright test
 
-## show HTML Report
+## Show HTML Report
 
 npx playwright show-report
 
-#Run in UI mode
+
+## Run in UI mode
 
 npx playwright test --ui
+
+# Commands 
+npx playwright test grouping.spec.ts --project=chromium --headed
 
 
